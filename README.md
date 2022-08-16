@@ -1,6 +1,6 @@
 Projeto desenvolvido durante curso de Angular.
 
-Aplicação frontend com autenticação.
+Aplicação frontend com autenticação utilizando httpserver no backend para autenticar.
 
 # CursoDeAngularAuthFront
 
