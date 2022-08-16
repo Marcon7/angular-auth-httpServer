@@ -1,0 +1,10 @@
+@import "~/src/scss/variables.scss";
+
+
+:host {
+    label {
+        font-size: 25px;
+        font-weight: 700;
+        color: $vermelho;
+    }
+}
